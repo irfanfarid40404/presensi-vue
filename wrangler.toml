@@ -1,0 +1,7 @@
+name = "presensi-vue"
+compatibility_date = "2023-10-01"
+
+[[d1_databases]]
+binding = "DB" # Nama binding yang akan digunakan di Workers
+database_name = "presensi-vue"
+database_id = "74631499-caf7-4760-98d4-906b65cde7e7"
